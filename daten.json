@@ -1,0 +1,162 @@
+{
+ "firma": "ADAP Rinderzucht",
+ "stelle": "Landwirt (m/w/d)",
+ "ort": "Ahrenshagen-Daskow",
+ "plz": "18320",
+ "branche": "landwirtschaft",
+ "stelle_id": 311,
+ "farbe_primary": "#004822",
+ "farbe_secondary": "#4DB850",
+ "region_badge": "Ahrenshagen-Daskow & Umgebung",
+ "benefit_top": "Unbefristet & Wohnraum auf dem Hof",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Wohnraum auf dem Hof & Hilfe bei der Wohnungssuche",
+  "Vermögenswirksame Leistungen",
+  "Hochwertige Arbeitskleidung",
+  "Betriebsarzt & regelmäßige Gesundheitschecks",
+  "Flache Hierarchien & freundliches Arbeitsklima",
+  "Strukturierte Abläufe",
+  "Regelmäßige Firmenfeiern & Mitarbeiter-Events",
+  "Kostenlose Gartengeräte zur privaten Nutzung",
+  "Unfallversicherung"
+ ],
+ "aufgaben": [
+  "Du übernimmst die Bodenbearbeitung und Arbeiten im Feldbau",
+  "Du erledigst Transportarbeiten",
+  "Du reparierst Trecker und Landmaschinen auf dem Betriebsgelände",
+  "Du hilfst bei der Fütterung unserer Herde",
+  "Du unterstützt die Geschäftsleitung im Tagesgeschäft",
+  "Du übernimmst Winterdienstarbeiten für die Gemeinde"
+ ],
+ "anforderung": "Offenheit für die Arbeit auf dem Hof, gerne eine Ausbildung zum Landwirt, Landmaschinenschlosser oder LKW-Fahrer und idealerweise Berufserfahrung in der Landwirtschaft. Wichtig ist handwerkliches Geschick – vor allem bei Reparaturen an Landmaschinen – sowie Motivation und Freude am Anpacken.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Landwirt / Landwirtschaft",
+   "icon": "🌾",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Landmaschinenschlosser / Mechaniker",
+   "icon": "🔧",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "LKW-Fahrer / Berufskraftfahrer",
+   "icon": "🚛",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Mehrjährige Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "fuehrerschein_optionen": [
+  {
+   "label": "Ja, Klasse C/CE",
+   "icon": "🚛"
+  },
+  {
+   "label": "Ja, Klasse T",
+   "icon": "🚜"
+  },
+  {
+   "label": "Nur Klasse B",
+   "icon": "🚗"
+  },
+  {
+   "label": "Nein",
+   "icon": "❌"
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1.300",
+    "label": "Rinder (etwa)"
+   },
+   {
+    "zahl": "40",
+    "label": "Mitarbeiter (rund)"
+   },
+   {
+    "zahl": "1991",
+    "label": "gegründet"
+   }
+  ],
+  "text": "Die ADAP Rinderzucht GmbH ist ein landwirtschaftliches Unternehmen aus Ahrenshagen-Daskow in Mecklenburg-Vorpommern, gegründet 1991. Rund 40 Mitarbeiterinnen und Mitarbeiter arbeiten in drei Bereichen: Ackerbau, Milchwirtschaft und erneuerbare Energien. Auf rund 1.000 Hektar liegt der Schwerpunkt im Futtermittelanbau für die Herde von etwa 1.300 Rindern. Moderne, nachhaltige Landwirtschaft, regionale Verbundenheit – und ein Team, das mit Leidenschaft bei der Sache ist und zusammenhält."
+ },
+ "kunde_tab": "51 ADAP Rinderzucht",
+ "quelle": "https://adap-rinderzucht.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Ahrenshagen-Daskow (18320)"
+ },
+ "hero_bild": "img/hero-haecksler-ernte.jpg",
+ "bilder": [
+  "img/f1-haecksler-ernte.jpg",
+  "img/f2-silage-trecker.jpg",
+  "img/f3-kuehe-stall.jpg",
+  "img/f4-kaelber-stall.jpg",
+  "img/f5-hof-luftbild.jpg",
+  "img/f6-kuehe-fressgitter.jpg"
+ ],
+ "meta_geo": [
+  "Todenhägerstraße 7, 18320 Ahrenshagen-Daskow"
+ ]
+}
