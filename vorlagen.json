@@ -8,5 +8,49 @@
   54.2263241,
   12.6029779
  ],
- "logo": "logo-hd.png"
+ "logo": "logo-hd.png",
+ "frage": "Landwirt mit Herzblut?",
+ "frage_sub": "Bei ADAP Rinderzucht bist du vielseitig im Einsatz: Feldbau, Transporte und Reparaturen am Trecker – unbefristet in Vollzeit.",
+ "f_photo": [
+  "raw/f1-haecksler-ernte-full.jpg",
+  "50% 55%"
+ ],
+ "s_photo": [
+  "raw/f2-silage-trecker-full.jpg",
+  "50% 50%"
+ ],
+ "sticker": [
+  [
+   "Unbefristet",
+   50,
+   1010,
+   -5,
+   "linear-gradient(135deg,#FFFFFF,#E9EEF2)",
+   "#1B1B1B"
+  ],
+  [
+   "Vollzeit",
+   70,
+   640,
+   3,
+   "linear-gradient(135deg,#D6ECFF,#8EC5FF)",
+   "#0B2A4A"
+  ],
+  [
+   "Wohnraum auf dem Hof",
+   460,
+   1005,
+   4,
+   "linear-gradient(135deg,#FFE88A,#FFC531)",
+   "#1B1B1B"
+  ],
+  [
+   "Vermögenswirksame Leistungen",
+   300,
+   860,
+   -3,
+   "linear-gradient(135deg,#FFFFFF,#E9EEF2)",
+   "#1B1B1B"
+  ]
+ ]
 }

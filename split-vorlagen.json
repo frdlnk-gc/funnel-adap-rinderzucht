@@ -1,0 +1,39 @@
+[
+ {
+  "logo": "logo-hd.png",
+  "primary": "#004822",
+  "headline": [
+   "Landwirt (m/w/d)",
+   "im Feldbau"
+  ],
+  "name": "V02-wir-suchen",
+  "foto": "raw/f1-haecksler-ernte-full.jpg",
+  "panel": "top",
+  "panel_hoehe": 0.56,
+  "fokus": [
+   0.5,
+   0.5
+  ],
+  "kicker": "WIR SUCHEN IN AHRENSHAGEN-DASKOW",
+  "subline": "Unbefristet – mit Wohnraum auf dem Hof und Hilfe bei der Wohnungssuche.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten"
+ },
+ {
+  "logo": "logo-hd.png",
+  "primary": "#004822",
+  "headline": [
+   "Landwirt (m/w/d)",
+   "im Feldbau"
+  ],
+  "name": "V02-wir-suchen",
+  "format": "9x16",
+  "foto": "raw/f5-hof-luftbild-full.jpg",
+  "zoom_9x16": 1.0,
+  "fokus_9x16": [
+   0.5,
+   0.4
+  ],
+  "kicker": "AHRENSHAGEN-DASKOW (18320)",
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]

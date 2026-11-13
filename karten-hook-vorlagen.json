@@ -1,0 +1,21 @@
+{
+ "name": "V01-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "raw/f6-kuehe-fressgitter-full.jpg",
+ "fokus": [
+  0.5,
+  0.5
+ ],
+ "karte": "img/karte-osm.jpg",
+ "osm_credit": false,
+ "primary": "#004822",
+ "headline": [
+  "LANDWIRT"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Ahrenshagen · Ribnitz-Damgarten & Umgebung"
+}
